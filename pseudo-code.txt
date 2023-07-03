@@ -1,0 +1,31 @@
+Algo recherche 
+
+Début 
+  variable 
+    min : entier
+    max : entier 
+    taille: entier 
+    tableau : entier
+
+      max <- Saisir "un nombre max "
+
+      min <- Saisir un nombre min" 
+      
+     taille <- Saisir un nombre 
+
+     tableau <- []
+
+    pour tableau allant de min à max de taille faire
+       tableau <- taille
+    fin pour
+       
+
+    pour tableau [i]  faire 
+          i <- aleatoire (min et max ) 
+
+   fin pour 
+
+    
+
+    
+    
